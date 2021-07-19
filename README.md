@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # facerecognition
 
 This app was create during ZTE Webdevelopment course studies
->>>>>>> b03cba20d678853b19c8bcf914632f27eaa4ab86
+b03cba20d678853b19c8bcf914632f27eaa4ab86
